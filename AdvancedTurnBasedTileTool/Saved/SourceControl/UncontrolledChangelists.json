@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE_Projects/ZeldaEmblem/AdvancedTurnBasedTileTool/Content/Isometric_World/Sky_Temple/Maps/Level_Sky_Temple_Demo_01.umap",
+				"D:/UE_Projects/ZeldaEmblem/AdvancedTurnBasedTileTool/Content/Level_Sky_Temple_Demo_01.umap",
+				"D:/UE_Projects/ZeldaEmblem/AdvancedTurnBasedTileTool/Content/Isometric_World/Sky_Temple/Maps/Level_Sky_Temple_Showcase_01_BuiltData.uasset",
+				"D:/UE_Projects/ZeldaEmblem/AdvancedTurnBasedTileTool/Content/Isometric_World/Sky_Temple/Maps/Level_Sky_Temple_Showcase_01.umap",
+				"D:/UE_Projects/ZeldaEmblem/AdvancedTurnBasedTileTool/Content/Level_Sky_Temple.umap"
+			]
+		}
+	]
+}
